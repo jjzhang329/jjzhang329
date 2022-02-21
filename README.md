@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am JJ!  <img src=https://media.giphy.com/media/5tmSbqO8XgdMeWyUcP/giphy.gif width='40' height='40'>
 
 <!--
 **jjzhang329/jjzhang329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
