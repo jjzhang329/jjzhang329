@@ -4,10 +4,15 @@
 I am a full-stack engineer currently looking for a full-time position, checkout my cool projects below :sunglasses:
 <details>
   <summary> Mamazon  :moneybag:</summary>
-  <img src=https://mamazon-seeds.s3.us-west-1.amazonaws.com/mamazon+(2).png width='40' height='40'>
+  <a href="https://mamazon-fullstack.herokuapp.com/#/">
+    <img src=https://mamazon-seeds.s3.us-west-1.amazonaws.com/ezgif.com-gif-maker+(5).gif width='350'>
+  </a>
 </details>
 <details>
   <summary> CodeUps </summary>
+   <a href="https://codeups.herokuapp.com/#/" target="_blank" title="codeUps">
+    <img src="https://raw.githubusercontent.com/ggharsha/codeUps/main/readme_assets/splash_page.gif" width="350">
+ </a>
 </details>
 <details>
   <summary> DinoBomber </summary>
