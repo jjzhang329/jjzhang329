@@ -37,6 +37,14 @@ Technologies used:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 </details>
 
+### Github stats:
+![JJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjzhang329&theme=buefy&show_icons=true)
+
+
+### Reach me at:
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jing-jing-zhang-888a05a5/)
+[![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:ariel_jingjingzhang@hotmail.com)
+[![image](https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/jing-jing-zhang)
 <!--
 **jjzhang329/jjzhang329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
