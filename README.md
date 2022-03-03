@@ -1,7 +1,7 @@
 ### Hi there, I am JJ!  <img src=https://media.giphy.com/media/5tmSbqO8XgdMeWyUcP/giphy.gif width='40' height='40'>
 #### :sparkles: Life is short, challenge yourself to exceed your limit! :sparkles:
 
-I am a full-stack engineer currently looking for a full-time position, checkout my cool projects below :sunglasses:
+I am a full-stack engineer currently looking for a full-time position, here is my [portofolio page](https://jjzhang329.github.io/portfolio/), checkout my cool projects below :sunglasses:
 <details>
   <br/>
   <summary> Mamazon  :moneybag:</summary>
