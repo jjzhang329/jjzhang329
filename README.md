@@ -18,7 +18,6 @@ Proficient in Ruby on Rails, I have adeptly developed efficient and scalable sol
 ### Reach me at:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jing-jing-zhang-888a05a5/)
 [![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:ariel_jingjingzhang@hotmail.com)
-[![image](https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/jing-jing-zhang)
 <!--
 **jjzhang329/jjzhang329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
