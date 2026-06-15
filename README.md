@@ -1,10 +1,19 @@
 ### Hi there, I am JJ!  <img src=https://media.giphy.com/media/5tmSbqO8XgdMeWyUcP/giphy.gif width='40' height='40'>
 #### :sparkles: Life is short, challenge yourself to exceed your limit! :sparkles:
 
-I am a software engineer currently looking for a full-time position. I have worked as a full-statck engineer with the billing team at BigCommerce for 1.5 years.  BigCommerce, as an saas company, it provides an comprehensive solution for e-commerce to both enterprise and individual customers. I have collaborated with 10 other egineers within an Agile environment and our team is mainly responsible for manageing merchant's subscriptions, billings and mainting the Admin UI and Client UI dashboards.
+I am a full-stack software engineer with a proven track record of building and scaling high-impact SaaS applications, internal tooling, and automated data pipelines.
 
-Consistently adhering to object-oriented programming (OOP) best practices, I prioritize writing clean and high-quality code. I have srtong experience working with RESTful APIs and have utilized gRPC for internal services communications.
-Proficient in Ruby on Rails, I have adeptly developed efficient and scalable solutions, harnessing the power of Ruby gems and libraries such as Dry-rb, RSpec, SimpleForm, and Resque. In addition, I am well-versed in client-side technologies, including JavaScript and Angular, ensuring seamless user experiences.
+Most recently at ApproveShield, I drove major feature rollouts for core internal platforms (Analyst UI 1.5 & 2.0), drastically optimizing workflow efficiency for internal teams. I also architected robust external REST APIs, implemented third-party integrations (including webhooks and financial data tools), and maintained highly resilient, automated data scraping pipelines across multiple US legal jurisdictions. Prior to this, I spent 1.5 years on the billing team at BigCommerce, collaborating in an Agile environment to manage merchant subscriptions, complex billing systems, and critical admin dashboards.
+
+Consistently adhering to object-oriented programming (OOP) best practices, I prioritize writing clean, maintainable, and high-quality code.
+
+Technical Expertise:
+
+Backend: Ruby on Rails (Dry-rb, RSpec, Resque, Faraday), gRPC, RESTful APIs, Database Optimization
+
+Frontend: JavaScript, Angular, HTML5/CSS3
+
+Methodologies: Agile/Scrum, Data Pipelines, Automated Monitoring & Tooling
 
 ### Technical Skills:
 
